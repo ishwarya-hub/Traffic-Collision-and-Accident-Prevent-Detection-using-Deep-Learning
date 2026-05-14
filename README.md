@@ -1079,9 +1079,9 @@ We express our deepest gratitude to:
 NOTICE
 
 Project Name: Traffic Collision and Accident Prevention Detection using Deep Learning & IOT
-Copyright (c) 2026 Arokiya Nithish J& Ishwarya M
+Copyright (c) 2026 Arokiya Nithish J & Ishwarya M
 
-This product includes software developed by Arokiya Nithish J.
+This product includes software developed by Arokiya Nithish J & Ishwarya M.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
